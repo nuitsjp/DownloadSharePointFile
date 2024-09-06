@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DownloadSharePointFile": {
+      "commandName": "Project",
+      "commandLineArgs": "https://rfgricoh.sharepoint.com/teams/solution-development "
+    }
+  }
+}
